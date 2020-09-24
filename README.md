@@ -6,7 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Moraes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/gabrielnfz/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielhm2001@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielhm2001@gmail.com)](mailto:gabrielhm2001@gmail.com)
 
-<hr>
 <br>
 
 - 🌱 I’m currently learning web development
