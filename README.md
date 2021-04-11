@@ -2,7 +2,6 @@
 
 ## I'm a Student and Developer!
 
-[![Twitter Badge](https://img.shields.io/badge/-@gabrielnafuzi-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/gabrielnafuzi)](https://twitter.com/gabrielnafuzi)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Moraes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/gabrielnfz/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielhm2001@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielhm2001@gmail.com)](mailto:gabrielhm2001@gmail.com)
 
